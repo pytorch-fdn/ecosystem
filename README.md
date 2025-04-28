@@ -57,9 +57,9 @@ Please provide the additional information requested as a comment on the issue wi
 
 If the issue has been affixed with this label it will be closed as the PyTorch Ecosystem Working Group has determined the project at the time of discussion is not ready for inclusion into  PyTorch. There will be a comment on the issue that annotates the expectations in order for the project to be re-reviewed by the PyTorch Ecosystem Working Group. You may resubmit your project for review once you have completed the items noted in the issue.  
 
-#### Blog candidate
+#### Community Highlight
 
-If the issue has been affixed with this label the PyTorch Ecosystem Working Group has decided that the project is useful but too early in its lifecycle.  They will request that you write a community blog post with the help of the PyTorch marketing team, who will reach out to assist you in creating the blog post.    
+If the issue has been affixed with this label, the PyTorch Ecosystem Working Group has decided that the project is useful but too early in its lifecycle. They will request that you create a Community Highlight with the help of the PyTorch marketing team, who will reach out to assist you. 
 
 ## How applications are reviewed
 
