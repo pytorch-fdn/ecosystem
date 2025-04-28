@@ -7,7 +7,7 @@ For information on the  process please check out the [details on our application
 
 Please review the [Ecosystem review process](https://github.com/pytorch-fdn/tac/blob/main/docs/governance/PyTorch_Ecosystem_Process.md) to ensure that you meet the minimum expectations before applying.  
 
-# How to apply
+# How to appl
 
 Applying is as easy as 1-2-3!
 
