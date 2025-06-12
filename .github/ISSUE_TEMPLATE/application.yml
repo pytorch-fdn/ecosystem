@@ -1,6 +1,6 @@
 name: Ecosystem Project application
 description: Apply to be a member of the PyTorch Ecosystem landscape
-title: "[Ecosystem]<Project Name>"
+title: "[Ecosystem] <Project Name>"
 labels: [New]
 body:
 - type: markdown

@@ -1,0 +1,43 @@
+name: Report an issue
+description: Notify us about an issue on PyTorch Ecosystem landscape
+title: "[Issue] <Project Name>"
+labels: [bug]
+body:
+- type: markdown
+  attributes:
+    value: |
+     Thanks for filling out a PyTorch Ecosystem Project issue.
+     The PyTorch ecosystem consists of projects, tools, and libraries from a broad set of researchers in academia and industry, application developers, and ML engineers.
+     The goal of the ecosystem is to support, accelerate, and aid user development with PyTorch. 
+     We appreciate your feedback and will work to address any issues you report.
+- type: input
+  attributes:
+    label: Contact emails
+    description: |
+      Provide the email address(es) of individuals who can provide more details if needed.
+      If more than one email is provided, please comma separate them.
+    placeholder: Comma-separate multiple emails here
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Project link
+    description: Provide a link to the project on the PyTorch Ecosystem landscape.
+    placeholder: https://landscape.pytorch.org/?item=...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Issue description
+    description: |
+      Provide a brief description of the issue.
+      If beneficial, please include a screenshot of the issue.
+    placeholder: Describe the problem with the project on the landscape.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional information
+    description: Any additional information you would like the PyTorch TAC to consider when evaluating this issue?
+  validations:
+    required: false
