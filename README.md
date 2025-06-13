@@ -11,7 +11,7 @@ Please review the [Ecosystem review process](https://github.com/pytorch-fdn/tac/
 
 Applying is as easy as 1-2-3!
 
-1. Open a new [Ecosystem Application](https://github.com/pytorch-fdn/ecosystem/issues/new?assignees=&labels=New&projects=&template=application.yml&title=%3CProject+Name%3E?assignees=&labels=New&projects=&template=application.yml&title=%3CProject+Name%3E) using the linked issue form.
+1. Open a new [Ecosystem Application](https://github.com/pytorch-fdn/ecosystem/issues/new?template=application.yml) using the linked issue form.
 2. Complete all sections.
 3. Submit the issue.
 
