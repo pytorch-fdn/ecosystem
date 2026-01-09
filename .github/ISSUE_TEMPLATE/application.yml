@@ -18,7 +18,7 @@ body:
 - type: markdown
   attributes:
     value: |     
-     Also, please read the guidelines and understand the [expectations](https://docs.google.com/document/d/1fnom8Wz6gFKfhOTsNvNsj1qHxL0LwOdN/edit#heading=h.vh726n94ahnd) for Ecoystem projects.
+     Also, please read the guidelines and understand the [expectations](https://github.com/pytorch-fdn/tac/blob/main/docs/governance/PyTorch_Ecosystem_Process.md) for Ecoystem projects.
 - type: textarea
   attributes:
     label: Contact emails
